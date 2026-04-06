@@ -32,6 +32,7 @@ Processo de substituição de uma lâmpada queimada, incluindo cuidados com segu
 🛠️ Ferramentas Utilizadas
 Fluxogramas: Para representar visualmente os processos com símbolos e setas.
 Pseudocódigo: Para descrever os passos de forma textual e estruturada, semelhante a uma linguagem de programação.
+
 🎯 Objetivo
 
 O principal objetivo deste trabalho é:
